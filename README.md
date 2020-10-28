@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/pipefy.gif" alt="Pipefy" width="500">
+  <img src="public/pipefy.gif" alt="Pipefy" width="800">
 </h1>
 
 <br />
